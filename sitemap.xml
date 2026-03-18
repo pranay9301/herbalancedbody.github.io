@@ -129,6 +129,20 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   </url>
 
     <url>
+    <loc>https://herbalancedbody.github.io/affiliate-disclosure.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+    <url>
+    <loc>https://herbalancedbody.github.io/terms-and-conditions.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+    <url>
     <loc>https://herbalancedbody.github.io/editorial-transparency.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>yearly</changefreq>
